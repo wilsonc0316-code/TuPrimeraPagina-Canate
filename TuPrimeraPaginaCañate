@@ -1,1 +1,5 @@
+cd C:\Users\TuUsuario\Proyectos\TuPrimeraPaginaCañate
+git init
+git add .
+git commit -m "Proyecto Django inicial"
 
